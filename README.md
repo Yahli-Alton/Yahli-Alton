@@ -4,7 +4,7 @@ I am Yahli Alton <br>
 * 🤖 Part of the FRC team 2230 General Angels
 * 🔭 currently working on the WebApplication project
 * 🌱 currently learning the course Software 1 in Java
-
+* 📱 Feel free to reach me on Discord: Yahli#9485
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yahli-Alton&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
