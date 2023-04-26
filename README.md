@@ -7,9 +7,9 @@ I am Yahli Alton <br>
 * 📱 Feel free to reach me on Discord: Yahli#9485
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yahli-Alton&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yahli-Alton&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahli-Alton&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahli-Alton&theme=radical&layout=compact&count_private=true&size_weight=0.25&count_weight=0.4&hide="APS.NET"&langs_count=6)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yahli-Alton&theme=dark&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Yahli-Alton&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true)
 
 
 <!--
