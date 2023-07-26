@@ -2,7 +2,6 @@
 I am Yahli Alton <br>
 * 🎓 CS Student in Tel Aviv University (Odyssey program)
 * 🤖 Part of the FRC team 2230 General Angels
-* 🔭 currently working on the WebApplication project
 * 🌱 currently learning the course Software 1 in Java
 * 📱 Feel free to reach me on Discord: Yahli#9485
 
