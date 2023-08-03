@@ -9,7 +9,7 @@ I am Yahli Alton <br>
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahli-Alton&theme=radical&layout=compact&count_private=true&size_weight=0.25&count_weight=0.4&hide="APS.NET"&langs_count=6)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yahli-Alton&theme=dark&hide_border=false&include_all_commits=true)<br/>
-[![tryhackme stats](https://raw.githubusercontent.com/Yahli-Alton/Yahli-Alton/master/assets/thm_propic.png)][tryhackme]
+[![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/yahli.png)][tryhackme]
 [![](https://www.hackthebox.com/badge/image/1395502)][HTB]
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Yahli-Alton&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true)
 
