@@ -1,9 +1,10 @@
 # 💫 About Me:
 I am Yahli Alton <br>
-* 🎓 CS Student in Tel Aviv University (Odyssey program)
+* 🎓 CS Student at Tel Aviv University (Odyssey program)
 * 🤖 Part of the FRC team 2230 General Angels
-* 🌱 currently learning the course Software 1 in Java
-* 📱 Feel free to reach me on Discord: Yahli#9485
+* 👨‍💻 Founder and Team Lead of the CTF group [Pixel Perfect][PixelPerfect]
+* 💼 Looking for a job as Junior Security Research or Software Developer
+* 📱 Feel free to reach me on Discord: Yahli#9485 or [LinkedIn][LinkedIn]
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahli-Alton&theme=radical&layout=compact&count_private=true&size_weight=0.25&count_weight=0.4&hide="APS.NET"&langs_count=6)<br/> -->
@@ -28,3 +29,5 @@ Here are some ideas to get you started:
 -->
 [tryhackme]: https://tryhackme.com/p/yahli
 [HTB]: https://app.hackthebox.com/profile/1395502
+[PixelPerfect]: https://ctftime.org/team/231618/
+[LinkedIn]: https://www.linkedin.com/in/yahli-alton-734148264/
