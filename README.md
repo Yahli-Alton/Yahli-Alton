@@ -6,7 +6,7 @@ I am Yahli Alton <br>
 * 💼 Looking for a job as Junior Security Research or Software Developer
 * 📱 Feel free to reach me on Discord: Yahli#9485 or [LinkedIn][LinkedIn]
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahli-Alton&theme=radical&layout=compact&count_private=true&size_weight=0.25&count_weight=0.4&hide="APS.NET"&langs_count=6)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yahli-Alton&theme=dark&hide_border=false&include_all_commits=true)<br/>
 [![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/yahli.png)][tryhackme]
