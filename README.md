@@ -2,7 +2,7 @@
 I am Yahli Alton <br>
 * 🎓 CS Student at Tel Aviv University (Odyssey program)
 * 🤖 Part of the FRC team 2230 General Angels
-* 👨‍💻 Founder and Team Lead of the CTF group [Pixel Perfect][PixelPerfect]
+* 👨‍💻 Co-Founder and Team Lead of the CTF group [Pixel Perfect][PixelPerfect]
 * 💼 Looking for a job as Junior Security Research or Software Developer
 * 📱 Feel free to reach me on Discord: Yahli#9485 or [LinkedIn][LinkedIn]
 
