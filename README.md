@@ -4,7 +4,7 @@ I am Yahli Alton <br>
 * 🤖 Part of the FRC team 2230 General Angels
 * 👨‍💻 Co-Founder and Team Lead of the CTF group [Pixel Perfect][PixelPerfect]
 * 💼 Looking for a job as Junior Security Research or Software Developer
-* 📱 Feel free to reach me on Discord: Yahli#9485 or [LinkedIn][LinkedIn]
+* 📱 Feel free to reach me on Email: Yahlialton@gmail.com or [LinkedIn][LinkedIn]
 
 # 📊 Stats:
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahli-Alton&theme=radical&layout=compact&count_private=true&size_weight=0.25&count_weight=0.4&hide="APS.NET"&langs_count=6)<br/> -->
